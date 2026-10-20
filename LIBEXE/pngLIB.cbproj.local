@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.967,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngget.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngerror.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngconf.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pnginfo.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngpread.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.952,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngdebug.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.021,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngrio.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\png.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\png.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngwtran.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngwio.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngpriv.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pnglibconf.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngrtran.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngread.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.063,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngstruct.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngmem.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngwutil.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.048,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngrutil.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngset.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngtrans.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,C:\Users\admin\PROGS\CV\pngLIB.cbproj=C:\Users\admin\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,=C:\Users\admin\PROGS\CV\sources\3rdparty\libpng\pngwrite.c</Transaction>
+  </Transactions>
+</BorlandProject>

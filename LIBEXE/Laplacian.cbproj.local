@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.086,=C:\Users\admin\PROGS\CV\sources\samples\cpp\cloning_gui.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,C:\Users\admin\PROGS\CV\sources\samples\cpp\squares.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,C:\Users\admin\PROGS\CV\sources\samples\cpp\cloning_gui.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,C:\Users\admin\PROGS\CV\LIBEXE\facedetect.cbproj=C:\Users\admin\PROGS\CV\LIBEXE\squares.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,=C:\Users\admin\PROGS\CV\sources\samples\cpp\laplace.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,C:\Users\admin\PROGS\CV\sources\samples\cpp\facedetect_bcc.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,=C:\Users\admin\PROGS\CV\LIBEXE\debug\photoLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,C:\Users\admin\PROGS\CV\LIBEXE\cloning_gui.cbproj=C:\Users\admin\PROGS\CV\LIBEXE\squares.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,=C:\Users\admin\PROGS\CV\sources\samples\cpp\squares.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,C:\Users\admin\PROGS\CV\LIBEXE\cloning_gui.cbproj=C:\Users\admin\PROGS\CV\LIBEXE\Laplacian.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

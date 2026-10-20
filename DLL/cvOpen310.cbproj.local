@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.017,=C:\Users\admin\PROGS\CV\sources\modules\highgui\src\window.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,C:\Users\admin\PROGS\CV\sources\modules\highgui\src\window.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,=C:\Users\admin\PROGS\CV\DLL\debug\videoioLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,C:\Users\admin\PROGS\CV\DLL\cvOpen310.cbproj=C:\Users\admin\PROGS\CV\DLL\opencv310.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,C:\Users\admin\PROGS\CV\Debug\Win32\highguiLIB.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,=C:\Users\admin\PROGS\CV\Debug\Win32\cvcoreLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,=C:\Users\admin\PROGS\CV\Debug\Win32\highguiLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.924,=C:\Users\admin\PROGS\CV\Debug\Win32\highguiLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.568,=C:\Users\admin\PROGS\CV\DLL\debug\zLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,=C:\Users\admin\PROGS\CV\Debug\Win32\imgprocLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.530,=C:\Users\admin\PROGS\CV\Debug\Win32\objdetectLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\loadsave.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.221,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\loadsave.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=C:\Users\admin\PROGS\CV\sources\modules\highgui\src\window_w32.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,C:\Users\admin\PROGS\CV\sources\modules\highgui\src\window_w32.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=C:\Users\admin\PROGS\CV\DLL\debug\pngLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,C:\Users\admin\Documents\RAD Studio\Projects\HighGUI100.cbproj=C:\Users\admin\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,=C:\Users\admin\PROGS\CV\DLL\debug\objdetectLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,=C:\Users\admin\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,C:\Users\admin\PROGS\cvBlobDLL\HighGUI100.cpp=C:\Users\admin\PROGS\cvBlobDLL\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\admin\PROGS\cvBlobDLL\File1.cpp=C:\Users\admin\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,=C:\Users\admin\PROGS\CV\DLL\debug\imgprocLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,C:\Users\admin\PROGS\CV\DLL\opencv310.cbproj=C:\Users\admin\PROGS\CV\DLL\HighGUI100.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,=C:\Users\admin\PROGS\CV\DLL\debug\imgcodecLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,C:\Users\admin\PROGS\cvBlobDLL\HighGUI100.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,=C:\Users\admin\PROGS\cvBlobDLL\HighGUI100.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,=C:\Users\admin\PROGS\CV\DLL\debug\cvcoreLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,=C:\Users\admin\PROGS\CV\Debug\Win32\imgcodecLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,=C:\Users\admin\PROGS\CV\Debug\Win32\videoioLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.077,C:\Users\admin\PROGS\CV\Debug\Win32\imgcodecLIB.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,=C:\Users\admin\PROGS\CV\Debug\Win32\imgcodecLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,=C:\Users\admin\PROGS\CV\DLL\debug\highguiLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.634,C:\Users\admin\PROGS\cvBlobDLL\HighGUI100.cbproj=C:\Users\admin\Documents\RAD Studio\Projects\HighGUI100.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,=C:\Users\admin\PROGS\CV\DLL\debug\jpegLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=C:\Users\admin\PROGS\CV\Debug\Win32\zLIB.lib</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,144 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{D857BBCD-6ADA-4898-8BA2-30C1617EF47E}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="DLL\cvcoreLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\highguiLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\imgcodecLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\imgprocLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\jpegLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\objdetectLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\pngLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\videoioLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\zLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="DLL\cvOpen310.cbproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="cvcoreLIB">
+			<MSBuild Projects="DLL\cvcoreLIB.cbproj"/>
+		</Target>
+		<Target Name="cvcoreLIB:Clean">
+			<MSBuild Projects="DLL\cvcoreLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="cvcoreLIB:Make">
+			<MSBuild Projects="DLL\cvcoreLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="highguiLIB">
+			<MSBuild Projects="DLL\highguiLIB.cbproj"/>
+		</Target>
+		<Target Name="highguiLIB:Clean">
+			<MSBuild Projects="DLL\highguiLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="highguiLIB:Make">
+			<MSBuild Projects="DLL\highguiLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="imgcodecLIB">
+			<MSBuild Projects="DLL\imgcodecLIB.cbproj"/>
+		</Target>
+		<Target Name="imgcodecLIB:Clean">
+			<MSBuild Projects="DLL\imgcodecLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="imgcodecLIB:Make">
+			<MSBuild Projects="DLL\imgcodecLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="imgprocLIB">
+			<MSBuild Projects="DLL\imgprocLIB.cbproj"/>
+		</Target>
+		<Target Name="imgprocLIB:Clean">
+			<MSBuild Projects="DLL\imgprocLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="imgprocLIB:Make">
+			<MSBuild Projects="DLL\imgprocLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="jpegLIB">
+			<MSBuild Projects="DLL\jpegLIB.cbproj"/>
+		</Target>
+		<Target Name="jpegLIB:Clean">
+			<MSBuild Projects="DLL\jpegLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="jpegLIB:Make">
+			<MSBuild Projects="DLL\jpegLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="objdetectLIB">
+			<MSBuild Projects="DLL\objdetectLIB.cbproj"/>
+		</Target>
+		<Target Name="objdetectLIB:Clean">
+			<MSBuild Projects="DLL\objdetectLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="objdetectLIB:Make">
+			<MSBuild Projects="DLL\objdetectLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="pngLIB">
+			<MSBuild Projects="DLL\pngLIB.cbproj"/>
+		</Target>
+		<Target Name="pngLIB:Clean">
+			<MSBuild Projects="DLL\pngLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="pngLIB:Make">
+			<MSBuild Projects="DLL\pngLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="videoioLIB">
+			<MSBuild Projects="DLL\videoioLIB.cbproj"/>
+		</Target>
+		<Target Name="videoioLIB:Clean">
+			<MSBuild Projects="DLL\videoioLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="videoioLIB:Make">
+			<MSBuild Projects="DLL\videoioLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="zLIB">
+			<MSBuild Projects="DLL\zLIB.cbproj"/>
+		</Target>
+		<Target Name="zLIB:Clean">
+			<MSBuild Projects="DLL\zLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="zLIB:Make">
+			<MSBuild Projects="DLL\zLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="cvOpen310">
+			<MSBuild Projects="DLL\cvOpen310.cbproj"/>
+		</Target>
+		<Target Name="cvOpen310:Clean">
+			<MSBuild Projects="DLL\cvOpen310.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="cvOpen310:Make">
+			<MSBuild Projects="DLL\cvOpen310.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="cvcoreLIB;highguiLIB;imgcodecLIB;imgprocLIB;jpegLIB;objdetectLIB;pngLIB;videoioLIB;zLIB;cvOpen310"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="cvcoreLIB:Clean;highguiLIB:Clean;imgcodecLIB:Clean;imgprocLIB:Clean;jpegLIB:Clean;objdetectLIB:Clean;pngLIB:Clean;videoioLIB:Clean;zLIB:Clean;cvOpen310:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="cvcoreLIB:Make;highguiLIB:Make;imgcodecLIB:Make;imgprocLIB:Make;jpegLIB:Make;objdetectLIB:Make;pngLIB:Make;videoioLIB:Make;zLIB:Make;cvOpen310:Make"/>
+		</Target>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')" Project="$(BDS)\Bin\CodeGear.Group.Targets"/>
+	</Project>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\admin\PROGS\CV\LIBEXE\debug\videoLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,=C:\Users\admin\PROGS\CV\LIBEXE\debug\calib3dLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,=C:\Users\admin\PROGS\CV\sources\samples\cpp\letter_recog.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,C:\Users\admin\PROGS\CV\sources\samples\cpp\letter_recog.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,=C:\Users\admin\PROGS\CV\LIBEXE\debug\photoLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\admin\PROGS\CV\LIBEXE\videostab.cbproj=C:\Users\admin\PROGS\CV\LIBEXE\deconvolution.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,C:\Users\admin\PROGS\CV\LIBEXE\letter_recog.cbproj=C:\Users\admin\PROGS\CV\LIBEXE\deconvolution.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\admin\PROGS\CV\sources\samples\cpp\deconvolution.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,=C:\Users\admin\PROGS\CV\sources\samples\cpp\deconvolution.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,=C:\Users\admin\PROGS\CV\sources\samples\cpp\squares.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,C:\Users\admin\PROGS\CV\sources\samples\cpp\squares.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,C:\Users\admin\PROGS\CV\sources\samples\cpp\facedetect_bcc.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,=C:\Users\admin\PROGS\CV\LIBEXE\debug\videostabLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,=C:\Users\admin\PROGS\CV\LIBEXE\debug\features2dLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,=C:\Users\admin\PROGS\CV\LIBEXE\debug\mlLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,=C:\Users\admin\PROGS\CV\sources\samples\cpp\videostab.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,C:\Users\admin\PROGS\CV\LIBEXE\squares.cbproj=C:\Users\admin\PROGS\CV\LIBEXE\letter_recog.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,C:\Users\admin\PROGS\CV\LIBEXE\squares.cbproj=C:\Users\admin\PROGS\CV\LIBEXE\facedetect.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\CV"/>
+    <File Path="..\sources"/>
+    <File Path="..\sources\samples"/>
+    <File Path="..\sources\samples\cpp"/>
+    <File Path="..\sources\samples\cpp\videostab.cpp"/>
+    <File Path="debug\cvcoreLIB.lib"/>
+    <File Path="debug\features2dLIB.lib"/>
+    <File Path="debug\highguiLIB.lib"/>
+    <File Path="debug\imgcodecLIB.lib"/>
+    <File Path="debug\imgprocLIB.lib"/>
+    <File Path="debug\jpegLIB.lib"/>
+    <File Path="debug\mlLIB.lib"/>
+    <File Path="debug\objdetectLIB.lib"/>
+    <File Path="debug\photoLIB.lib"/>
+    <File Path="debug\pngLIB.lib"/>
+    <File Path="debug\videoioLIB.lib"/>
+    <File Path="debug\videoLIB.lib"/>
+    <File Path="debug\videostabLIB.lib"/>
+    <File Path="debug\zLIB.lib"/>
+    <File Path="debug\calib3dLIB.lib"/>
+  </ProjectSortOrder>
+</BorlandProject>

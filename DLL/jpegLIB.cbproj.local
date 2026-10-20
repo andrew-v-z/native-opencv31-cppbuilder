@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.765,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdhuff.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jinclude.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jfdctfst.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jidctint.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcmaster.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jerror.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jfdctint.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jctrans.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdmaster.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdatadst.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.530,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcinit.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jquant1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdsample.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jpegint.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcarith.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdtrans.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jddctmgr.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcapistd.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jfdctflt.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcmarker.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jidctflt.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcsample.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jaricom.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jmorecfg.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdmarker.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jchuff.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdapimin.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jquant2.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdapistd.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdmerge.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jmemmgr.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jutils.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jccoefct.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcparam.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdcolor.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jpeglib.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdmainct.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdct.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jversion.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcdctmgr.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,C:\Users\admin\PROGS\CV\jpegLIB.cbproj=C:\Users\admin\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcmainct.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdinput.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdatasrc.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jmemsys.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jidctfst.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcapimin.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jerror.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcomapi.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.806,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdpostct.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.952,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jmemnobs.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jconfig.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdcoefct.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jccolor.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jdarith.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jmemansi.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.679,=C:\Users\admin\PROGS\CV\sources\3rdparty\libjpeg\jcprepct.c</Transaction>
+  </Transactions>
+</BorlandProject>

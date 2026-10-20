@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.927,C:\Users\admin\PROGS\CV\sources\modules\highgui\src\window.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=C:\Users\admin\PROGS\CV\sources\modules\shape\src\aff_trans.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,=C:\Users\admin\PROGS\CV\sources\modules\shape\src\sc_dis.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,=C:\Users\admin\PROGS\CV\sources\modules\shape\src\precomp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,=C:\Users\admin\PROGS\CV\sources\modules\shape\src\hist_cost.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Users\admin\PROGS\CV\LIBEXE\debug\cvcoreLIB.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,=C:\Users\admin\PROGS\CV\sources\modules\shape\src\tps_trans.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,=C:\Users\admin\PROGS\CV\sources\modules\shape\src\emdL1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.952,C:\Users\admin\PROGS\CV\sources\modules\highgui\src\precomp.hpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,C:\Users\admin\PROGS\CV\sources\modules\highgui\src\window_w32.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.569,=C:\Users\admin\PROGS\CV\sources\modules\shape\src\haus_dis.cpp</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\CV"/>
+    <File Path="..\sources"/>
+    <File Path="..\sources\modules"/>
+    <File Path="..\sources\modules\shape"/>
+    <File Path="..\sources\modules\shape\src"/>
+    <File Path="..\sources\modules\shape\src\precomp.cpp"/>
+    <File Path="..\sources\modules\shape\src\aff_trans.cpp"/>
+    <File Path="..\sources\modules\shape\src\emdL1.cpp"/>
+    <File Path="..\sources\modules\shape\src\haus_dis.cpp"/>
+    <File Path="..\sources\modules\shape\src\hist_cost.cpp"/>
+    <File Path="..\sources\modules\shape\src\sc_dis.cpp"/>
+    <File Path="..\sources\modules\shape\src\tps_trans.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>

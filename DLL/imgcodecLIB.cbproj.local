@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.163,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_tiff.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_pxm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_webp.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\precomp.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\bitstrm.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_webp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\jpeg_exif.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\jpeg_exif.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\bitstrm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,=C:\Users\admin\PROGS\CV\Debug\Win32\cvcoreLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_base.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_exr.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_base.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\loadsave.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.137,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_jpeg.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_hdr.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_bmp.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=C:\Users\admin\PROGS\CV\sources\modules\cudev\src\stub.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_png.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,C:\Users\admin\PROGS\CV\sources\modules\cudev\src\stub.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_bmp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_hdr.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_exr.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_sunras.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmts.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\rgbe.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_tiff.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_sunras.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.341,C:\Users\admin\PROGS\CV\cudevLIB.cbproj=C:\Users\admin\PROGS\CV\cudevLIB.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_png.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.655,C:\Users\admin\PROGS\CV\cudevLIB.cbproj=C:\Users\admin\PROGS\CV\imgcodecLIB.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_gdal.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,=C:\Users\admin\PROGS\CV\LIBEXE\debug\cvcoreLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.194,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\utils.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\utils.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.188,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\rgbe.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_jpeg.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.452,C:\Users\admin\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\admin\PROGS\CV\cudevLIB.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.151,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_pxm.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,=C:\Users\admin\PROGS\CV\libexe\videoioLIB.bpf</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=C:\Users\admin\PROGS\CV\sources\modules\imgcodecs\src\grfmt_gdal.hpp</Transaction>
+  </Transactions>
+</BorlandProject>

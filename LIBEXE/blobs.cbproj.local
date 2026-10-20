@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.981,C:\Users\admin\PROGS\CV\sources\samples\cpp\edge.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,=C:\Users\admin\PROGS\CV\sources\samples\cpp\detect_blob.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,=C:\Users\admin\PROGS\CV\LIBEXE\debug\features2dLIB.lib</Transaction>
+  </Transactions>
+</BorlandProject>

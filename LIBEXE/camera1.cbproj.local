@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.12.30 11:23:33.214,C:\Users\admin\PROGS\CV\sources\samples\cpp\facedetect_bcc.cpp=</Transaction>
+    <Transaction>2020.12.30 11:24:02.889,=C:\Users\admin\PROGS\CV\sources\samples\cpp\camera.cpp</Transaction>
+    <Transaction>2020.12.30 12:23:55.274,C:\Users\admin\PROGS\CV\sources\samples\cpp\camera1.cpp=C:\Users\admin\PROGS\CV\sources\samples\cpp\camera.cpp</Transaction>
+    <Transaction>2020.12.30 12:24:46.840,C:\Users\admin\PROGS\CV\LIBEXE\camera1.cbproj=C:\Users\admin\PROGS\CV\LIBEXE\camera.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

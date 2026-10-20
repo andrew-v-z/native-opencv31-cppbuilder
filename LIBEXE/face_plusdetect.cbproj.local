@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.537,C:\Users\admin\PROGS\CV\sources\samples\cpp\dbt_face_detection.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,=C:\Users\admin\PROGS\CV\sources\samples\cpp\dbt_face_detection.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.806,=C:\Users\admin\PROGS\CV\LIBEXE\debug\zLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,=C:\Users\admin\PROGS\CV\LIBEXE\debug\jpegLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,=C:\Users\admin\PROGS\CV\LIBEXE\debug\imgprocLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,C:\Users\admin\PROGS\CV\LIBEXE\debug\videoLIB.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,=C:\Users\admin\PROGS\CV\LIBEXE\debug\videoLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,=C:\Users\admin\PROGS\CV\LIBEXE\debug\imgcodecLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,=C:\Users\admin\PROGS\CV\sources\samples\cpp\facial_features_bcc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.924,=C:\Users\admin\PROGS\CV\LIBEXE\debug\highguiLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,=C:\Users\admin\PROGS\CV\LIBEXE\debug\videoioLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=C:\Users\admin\PROGS\CV\LIBEXE\debug\pngLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,=C:\Users\admin\PROGS\CV\LIBEXE\debug\objdetectLIB.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,=C:\Users\admin\PROGS\CV\LIBEXE\debug\cvcoreLIB.lib</Transaction>
+  </Transactions>
+</BorlandProject>

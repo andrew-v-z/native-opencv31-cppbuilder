@@ -1,0 +1,228 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{4F8AE605-A560-443D-AEFE-625BAC13CBF3}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="libexe\cvcoreLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="LIBEXE\highguiLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="libexe\imgcodecLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="libexe\imgprocLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="libexe\videoioLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="libexe\jpegLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="libexe\objdetectLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="libexe\pngLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="LIBEXE\photoLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="LIBEXE\mlLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="libexe\zLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="LIBEXE\features2dLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="LIBEXE\videoLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="LIBEXE\videostabLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="LIBEXE\calib3dLIB.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="LIBEXE\facedetect.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="..\DiscernCV\DiscernCV.cbproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="cvcoreLIB">
+			<MSBuild Projects="libexe\cvcoreLIB.cbproj"/>
+		</Target>
+		<Target Name="cvcoreLIB:Clean">
+			<MSBuild Projects="libexe\cvcoreLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="cvcoreLIB:Make">
+			<MSBuild Projects="libexe\cvcoreLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="highguiLIB">
+			<MSBuild Projects="LIBEXE\highguiLIB.cbproj"/>
+		</Target>
+		<Target Name="highguiLIB:Clean">
+			<MSBuild Projects="LIBEXE\highguiLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="highguiLIB:Make">
+			<MSBuild Projects="LIBEXE\highguiLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="imgcodecLIB">
+			<MSBuild Projects="libexe\imgcodecLIB.cbproj"/>
+		</Target>
+		<Target Name="imgcodecLIB:Clean">
+			<MSBuild Projects="libexe\imgcodecLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="imgcodecLIB:Make">
+			<MSBuild Projects="libexe\imgcodecLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="imgprocLIB">
+			<MSBuild Projects="libexe\imgprocLIB.cbproj"/>
+		</Target>
+		<Target Name="imgprocLIB:Clean">
+			<MSBuild Projects="libexe\imgprocLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="imgprocLIB:Make">
+			<MSBuild Projects="libexe\imgprocLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="videoioLIB">
+			<MSBuild Projects="libexe\videoioLIB.cbproj"/>
+		</Target>
+		<Target Name="videoioLIB:Clean">
+			<MSBuild Projects="libexe\videoioLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="videoioLIB:Make">
+			<MSBuild Projects="libexe\videoioLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="jpegLIB">
+			<MSBuild Projects="libexe\jpegLIB.cbproj"/>
+		</Target>
+		<Target Name="jpegLIB:Clean">
+			<MSBuild Projects="libexe\jpegLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="jpegLIB:Make">
+			<MSBuild Projects="libexe\jpegLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="objdetectLIB">
+			<MSBuild Projects="libexe\objdetectLIB.cbproj"/>
+		</Target>
+		<Target Name="objdetectLIB:Clean">
+			<MSBuild Projects="libexe\objdetectLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="objdetectLIB:Make">
+			<MSBuild Projects="libexe\objdetectLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="pngLIB">
+			<MSBuild Projects="libexe\pngLIB.cbproj"/>
+		</Target>
+		<Target Name="pngLIB:Clean">
+			<MSBuild Projects="libexe\pngLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="pngLIB:Make">
+			<MSBuild Projects="libexe\pngLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="photoLIB">
+			<MSBuild Projects="LIBEXE\photoLIB.cbproj"/>
+		</Target>
+		<Target Name="photoLIB:Clean">
+			<MSBuild Projects="LIBEXE\photoLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="photoLIB:Make">
+			<MSBuild Projects="LIBEXE\photoLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="mlLIB">
+			<MSBuild Projects="LIBEXE\mlLIB.cbproj"/>
+		</Target>
+		<Target Name="mlLIB:Clean">
+			<MSBuild Projects="LIBEXE\mlLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="mlLIB:Make">
+			<MSBuild Projects="LIBEXE\mlLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="zLIB">
+			<MSBuild Projects="libexe\zLIB.cbproj"/>
+		</Target>
+		<Target Name="zLIB:Clean">
+			<MSBuild Projects="libexe\zLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="zLIB:Make">
+			<MSBuild Projects="libexe\zLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="features2dLIB">
+			<MSBuild Projects="LIBEXE\features2dLIB.cbproj"/>
+		</Target>
+		<Target Name="features2dLIB:Clean">
+			<MSBuild Projects="LIBEXE\features2dLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="features2dLIB:Make">
+			<MSBuild Projects="LIBEXE\features2dLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="videoLIB">
+			<MSBuild Projects="LIBEXE\videoLIB.cbproj"/>
+		</Target>
+		<Target Name="videoLIB:Clean">
+			<MSBuild Projects="LIBEXE\videoLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="videoLIB:Make">
+			<MSBuild Projects="LIBEXE\videoLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="videostabLIB">
+			<MSBuild Projects="LIBEXE\videostabLIB.cbproj"/>
+		</Target>
+		<Target Name="videostabLIB:Clean">
+			<MSBuild Projects="LIBEXE\videostabLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="videostabLIB:Make">
+			<MSBuild Projects="LIBEXE\videostabLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="calib3dLIB">
+			<MSBuild Projects="LIBEXE\calib3dLIB.cbproj"/>
+		</Target>
+		<Target Name="calib3dLIB:Clean">
+			<MSBuild Projects="LIBEXE\calib3dLIB.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="calib3dLIB:Make">
+			<MSBuild Projects="LIBEXE\calib3dLIB.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="facedetect">
+			<MSBuild Projects="LIBEXE\facedetect.cbproj"/>
+		</Target>
+		<Target Name="facedetect:Clean">
+			<MSBuild Projects="LIBEXE\facedetect.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="facedetect:Make">
+			<MSBuild Projects="LIBEXE\facedetect.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="DiscernCV">
+			<MSBuild Projects="..\DiscernCV\DiscernCV.cbproj"/>
+		</Target>
+		<Target Name="DiscernCV:Clean">
+			<MSBuild Projects="..\DiscernCV\DiscernCV.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="DiscernCV:Make">
+			<MSBuild Projects="..\DiscernCV\DiscernCV.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="cvcoreLIB;highguiLIB;imgcodecLIB;imgprocLIB;videoioLIB;jpegLIB;objdetectLIB;pngLIB;photoLIB;mlLIB;zLIB;features2dLIB;videoLIB;videostabLIB;calib3dLIB;facedetect;DiscernCV"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="cvcoreLIB:Clean;highguiLIB:Clean;imgcodecLIB:Clean;imgprocLIB:Clean;videoioLIB:Clean;jpegLIB:Clean;objdetectLIB:Clean;pngLIB:Clean;photoLIB:Clean;mlLIB:Clean;zLIB:Clean;features2dLIB:Clean;videoLIB:Clean;videostabLIB:Clean;calib3dLIB:Clean;facedetect:Clean;DiscernCV:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="cvcoreLIB:Make;highguiLIB:Make;imgcodecLIB:Make;imgprocLIB:Make;videoioLIB:Make;jpegLIB:Make;objdetectLIB:Make;pngLIB:Make;photoLIB:Make;mlLIB:Make;zLIB:Make;features2dLIB:Make;videoLIB:Make;videostabLIB:Make;calib3dLIB:Make;facedetect:Make;DiscernCV:Make"/>
+		</Target>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')" Project="$(BDS)\Bin\CodeGear.Group.Targets"/>
+	</Project>
